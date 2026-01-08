@@ -1,0 +1,10 @@
+{
+  "name": "Lunaro Coin",
+  "symbol": "LNR",
+  "address": "0x8d425804b0d9abcae1af0aa6dd92d4806ceabc4b",
+  "decimals": 18,
+  "chainId": 7777,
+  "logoURI": "https://raw.githubusercontent.com/ceocript/lunaro-assets/main/Lunaro.png",
+  "website": "https://www.lunarocoin.com/",
+  "description": "Lunaro Coin (LNR) - A moeda nativa da LunaroChain (Chain ID 7777), focada em segurança e autoridade."
+}
